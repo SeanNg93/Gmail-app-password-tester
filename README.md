@@ -27,8 +27,8 @@ Prepare a CSV file with header row:
 
 ```
 email,app_password
-son.nguyen@example.com,xxxx xxxx xxxx xxxx
-jenny@example.com,yyyy yyyy yyyy yyyy
+son.nguyen@example.com,xxxxxxxxxxxxxxxx
+jenny@example.com,yyyyyyyyyyyyyyyy
 empty@example.com,
 ```
 Rows missing `app_password` will be skipped automatically.
